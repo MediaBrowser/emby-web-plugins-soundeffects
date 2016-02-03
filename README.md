@@ -25,3 +25,7 @@ A package consists of one or more modules (plugins) that are loaded at runtime. 
 # Installation
 
 Install into the app by installing a plugin from a url. The url is: http://mediabrowser.github.io/emby.web.plugins.soundeffects/package.json
+
+# Get listed
+
+To get listed in the official Emby plugin catalog, (info coming soon).
