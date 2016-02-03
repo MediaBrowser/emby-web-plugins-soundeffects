@@ -5,6 +5,7 @@ This is a template for a sound effect plugin. To create your own, follow these s
 * Fork this repository. After forking, you'll probably want to rename it.
 * Update package.json (see below). 
 * Update plugin.js (see below).
+* Update the installation url below.
 
 # package.json
 
