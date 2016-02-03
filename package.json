@@ -1,0 +1,13 @@
+{
+    "name": "emby.soundeffectspack",
+    "productName": "Sound Effects Pack",
+    "version": "1.0.0",
+    "description": "Awesome sound effects!",
+    "plugins": [
+        "coins/plugin.js"
+    ],
+    "bugs": "https://github.com/MediaBrowser/Emby.Theater.Electron/issues",
+    "homepage": "https://github.com/MediaBrowser/Emby.Theater.Electron#readme",
+    "thumbUrl": "",
+    "backdropUrl": ""
+}
