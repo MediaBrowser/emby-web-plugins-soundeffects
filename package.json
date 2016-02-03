@@ -5,7 +5,7 @@
     "description": "Awesome sound effects!",
     "plugin": "plugin.js",
     "bugs": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects/issues",
-    "homepage": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects#readme",
+    "homepage": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects",
     "thumbUrl": "",
     "backdropUrl": ""
 }
