@@ -17,4 +17,4 @@ This is a template for a sound effect plugin. To create your own, follow these s
 
 * Rename the coins folder as desired (and update package.json).
 * In coins/plugin.js, update the name field
-* If desired, add a second sound effect plugin to the package. Simply clone the folder and add to the plugins array in package.json.
+* As an exercise, add a second sound effect plugin to the package. Simply clone the folder and add to the plugins array in package.json.
