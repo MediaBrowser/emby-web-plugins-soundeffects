@@ -6,8 +6,8 @@
     "plugins": [
         "coins/plugin.js"
     ],
-    "bugs": "https://github.com/MediaBrowser/Emby.Theater.Electron/issues",
-    "homepage": "https://github.com/MediaBrowser/Emby.Theater.Electron#readme",
+    "bugs": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects/issues",
+    "homepage": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects",
     "thumbUrl": "",
     "backdropUrl": ""
 }
