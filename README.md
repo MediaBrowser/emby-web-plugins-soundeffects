@@ -8,7 +8,7 @@ This is a template for a sound effect plugin. To create your own, follow these s
 
 # package.json
 
-* name is your package name, and should have no spaces or special characters. This name is intended to be unique. Changing the name will cause the application to view it as a completely new package.
+* name is your package name, and should have no spaces or special characters. This is a package name and is intended to be unique. Changing the name will cause the application to view it as a completely new package.
 * update displayName as desired.
 
 # plugins
