@@ -19,7 +19,8 @@ This file is used to display information about your add-on in places such as the
 
 A package consists of one or more modules (plugins) that are loaded at runtime. Users will come to think of a package as a plugin when in fact, you can bundle multiple plugins into one package.
 
-* In plugin.js, update the name field. This value is used for display.
+* update the name field. This value is used for display.
+* update the id field. This is not used for display and should not contain any special characters or spaces.
 
 # Installation
 
