@@ -2,7 +2,7 @@
 
 This is a template for a sound effect plugin. To create your own, follow these steps:
 
-* Fork this repository, or create your own. If creating your own, be sure to create a gh-pages branch for Github Pages.
+* Fork this repository, or create your own. If creating from scratch, be sure to create a gh-pages branch for Github Pages.
 * Update all of the info in package.json. 
 * Update the modules (plugins) that are contained in the package
 
