@@ -8,6 +8,8 @@ This is a template for a sound effect plugin. To create your own, follow these s
 
 # package.json
 
+This file is used to display information about your add-on in places such as the installation screen, installed packages list, and catalog.
+
 * name is your package name, and should have no spaces or special characters. This is a package name and is intended to be unique. Changing the name will cause the application to view it as a completely new package.
 * update displayName as desired.
 * update thumbUrl to supply an image for display
