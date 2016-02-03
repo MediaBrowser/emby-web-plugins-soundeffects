@@ -6,6 +6,7 @@ define([], function () {
 
         self.name = 'Coins';
         self.type = 'soundeffects';
+        self.id = 'coinsoundeffects';
 
         self.getEffects = function () {
             return {
