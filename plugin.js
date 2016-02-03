@@ -14,5 +14,5 @@ define([], function () {
                 select: 'select.wav'
             };
         };
-    }
+    };
 });
