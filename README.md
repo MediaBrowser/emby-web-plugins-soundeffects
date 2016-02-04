@@ -13,8 +13,8 @@ This file is used to display information about your add-on in places such as the
 
 * name is your package name, and should have no spaces or special characters. This is a package name and is intended to be unique. Changing the name will cause the application to view it as a completely new package.
 * update displayName as desired.
-* update thumbUrl to supply an image for display
-* if desired, update backdropUrl to supply a background image
+* update thumb to supply an image for display. this should be 16*9. It can be a relative or full url.
+* if desired, update backdrop to supply a background image. this should be 16*9. It can be a relative or full url.
 
 # plugin.js
 
