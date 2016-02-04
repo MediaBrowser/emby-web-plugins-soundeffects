@@ -4,9 +4,9 @@ define([], function () {
 
         var self = this;
 
-        self.name = 'Electron';
+        self.name = 'Elektron';
         self.type = 'soundeffects';
-        self.id = 'electronsoundeffects';
+        self.id = 'elektronsoundeffects';
 
         self.getEffects = function () {
             return {
