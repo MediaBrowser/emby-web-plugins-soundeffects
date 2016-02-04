@@ -1,10 +1,10 @@
 {
-    "name": "awesomedeveloper.soundeffectspack",
-    "displayName": "Sound Effects Pack",
+    "name": "elektron.soundeffectspack",
+    "displayName": "Elektron Pack",
     "version": "1.0.0",
-    "description": "Awesome sound effects!",
+    "description": "Elektron Machinedrum effects!",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects",
+    "homepage": "https://github.com/brocass/elektron.soundeffects",
     "thumb": "",
     "backdrop": ""
 }
